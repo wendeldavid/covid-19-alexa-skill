@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:051150753579:function:2b920448-b709-4342-95d2-6a34ad609f81:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "locales": {
+        "pt-BR": {
+          "description": "Pergunte por dados sobre a pandemia de SARS-CoV-2, um vírus da família dos Corona vírus, que causa uma infecção chamada COVID-19. \n\nPara iniciar, apenas fale \"Alexa, abra dados covid 19\" ou \"Alexa, abrir dados covid 19\" para saber dos dados de contaminação e mortes no Brasil.\".\n\nA qualquer momento, você pode dizer \"Alexa, pare\"",
+          "examplePhrases": [
+            "Alexa abrir dados covid-19",
+            "Alexa abra dados covid-19",
+            "Alexa me conta dados covid-19"
+          ],
+          "keywords": [
+            "saúde",
+            "fatos",
+            "dados",
+            "covid-19",
+            "corona"
+          ],
+          "name": "Dados COVID-19",
+          "summary": "Acompanhea evolução da empidemia de COVID-19"
+        }
+      }
+    }
+  }
+}
